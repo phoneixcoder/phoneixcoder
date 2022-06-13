@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tilak Atri</h1>
-<h3 align="center" ><b>Passionate and Smart Working Coder with a zeal to learn new Technologies<b></h3>
+<h3 align="center">passionate and smart working coder with a zeal to learn new technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoneixcoder&label=Profile%20views&color=ff0000&style=flat" alt="phoneixcoder" /> </p>
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tilak-a-95705b119/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tilak-a-95705b119/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tilak-a-95705b119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tilak-a-95705b119" height="30" width="40" /></a>
 <a href="https://instagram.com/tilak_atri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tilak_atri" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/phoneix_coder" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="phoneix_coder" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/atritilak486" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atritilak486" height="30" width="40" /></a>
