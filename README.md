@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tilak Atri</h1>
-<h3 align="center">passionate and smart working coder with a zeal to learn new technologies</h3>
+<h3 align="center" ><b>Passionate and smart working coder with a zeal to learn new technologies<b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phoneixcoder&label=Profile%20views&color=ff0000&style=flat" alt="phoneixcoder" /> </p>
 
